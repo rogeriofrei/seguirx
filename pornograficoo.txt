@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, pornhub
+https://ev-h.phncdn.com/hls/videos/202010/22/363043212/,1080P_4000K,720P_4000K,480P_2000K,240P_400K,_363043212.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1714558771&validto=1714565971&ipa=77.54.27.119&hdl=-1&hash=qUHWatFTBMC5YQsUWBNB5FLv7dY%3D
+#EXTINF:-2 pornhub
+https://ev-h.phncdn.com/hls/videos/202111/15/398091441/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_398091441.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1714559031&validto=1714566231&ipa=77.54.27.119&hdl=-1&hash=J91SPCGOt6%2BZgPRuPO%2FECfwljEY%3D
+#EXTINF:-3. xnxx
+https://cdn77-vid.xnxx-cdn.com/ABjuJkm4xzDI_vLvXiQdfg==,1714573562/videos/hls/6d/73/3d/6d733d8a39b247342d02cab9d70dd518-1/hls-1080p-f2e08.m3u8
+#EXTINF:-4 xnxx
+https://cdn77-vid.xnxx-cdn.com/veJi7quzVKHhYzGyq0xAxA==,1714573618/videos/hls/a5/8e/ea/a58eea906d7422274d795cad68ad7c7a/hls-1080p-d0d84.m3u8
+#EXTINF:-5. BEEG PORN
+https://cdn77-vid.xvideos-cdn.com/JkSWyPjscPljgJUX_cO3xQ==,1714573966/videos/hls/e5/ca/6a/e5ca6a8ccd3833156e3264565af09799/hls-720p.m3u8
+#EXTINF:-6. BEEG PORN
+https://cdn77-vid.xvideos-cdn.com/r0aWoNr10q8SWbpp2fn-WA==,1714574138/videos/hls/c7/ea/41/c7ea41facceb2880d99654df97286830/hls-1080p-f9ac2.m3u8
+#EXTINF:-7 Pornid
+https://u3y8v8u4.aucdn.net/library/171548/807528d43a3a3549fb0abeba78e92df6ca63ff0a.mp4
+#EXTINF:-8.Pornid
+https://u3y8v8u4.aucdn.net/library/480319/6bb9d91f964c79e484c125d422178175e043d52d.mp4
+#EXTINF:-10.xHamster
+https://video-nss.xhcdn.com/LWAKC3D5WK4B1QukfPeQ7g==,1714575600/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/024/555/871/720p.av1.mp4.m3u8
+#EXTINF:-11.xHamster
+https://video-nss.xhcdn.com/_Vtlp2qcobciLbXnsEnhgg==,1714575600/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/024/549/344/2160p.av1.mp4.m3u8
+#EXTINF:-12.Drtuber
+https://ecdn.drtuber.com/mp4_lq/18eca5410010c97369a055b64ad5f191.mp4?ri=143&rs=68&ip=77.54.27.119&s=1714564214&e=1714567814&h=98ca3b4cc7864ababe81933377ce6b13
+
+
